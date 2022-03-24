@@ -3,4 +3,3 @@ The project was the culmination of multiple planning meetings where we discussed
 
 Full Report: https://uillinoisedu-my.sharepoint.com/:w:/g/personal/as85_illinois_edu/EXNeMbsk_IlIpSTDMMORIdAByeQJTud-zWmxTkJSVV9nWQ
 
-Video Demonstration: https://drive.google.com/file/d/1LD3GvXeCjLJTAj6t4HHrmK305OBpapLC/view?usp=sharing
